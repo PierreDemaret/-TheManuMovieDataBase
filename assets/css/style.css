@@ -1,0 +1,9 @@
+p {
+  font-size: 0.8rem;
+  text-overflow: hidden !important;
+}
+
+h4 {
+  margin: 0 !important;
+  font-size: 0.9rem !important;
+}
